@@ -1,0 +1,42 @@
+//********************************************************//
+Sorry Cheesewoo that I am 5 or so mounth late with this, 
+not been on DevientArt for a while.
+//********************************************************//
+!!!! IMPORTANT !!!! You also need "Launcher.ini" !!!!
+//********************************************************//
+Place this (Apps.txt) in a folder 
+(..//Rainmeter/Skins/Launcher)
+Along with Launcher.ini
+//********************************************************//
+
+[Variables]
+
+App1=""  	# App Name, Text Display
+App1Path= C:\Program Files (x86)\Google\Chrome\Application\chrome
+
+App2="" 	//# Leave Blank for Spacing
+App2Path= 	"C:\Riot Games\League of Legends\LeagueClient.exe"
+
+App3="" 	//# If you need more then 10 Apps Edit
+App3Path= 	"C:\Users\Noah Farber\AppData\Local\Discord\app-0.0.298\Discord"
+
+App4="" 	//# If you don't know how and you really need more 
+App4Path=	"C:\Program Files (x86)\Steam\Steam.exe"
+
+App5=""
+App5Path= "C:\Program Files\Rainmeter\Rainmeter.exe !Show "ChromeIcon\Chrome"
+
+App6=""
+App6Path=
+
+App7=""
+App7Path=
+
+App8=""
+App8Path=
+
+App9=""
+App9Path=
+
+App10=""
+App10Path=
